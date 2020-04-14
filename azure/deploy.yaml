@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: monolith
-          image: user30acr.azurecr.io/monolith
+          image: user24devopsacr.azurecr.io/monolith
           ports:
             - containerPort: 8080
